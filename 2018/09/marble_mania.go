@@ -1,4 +1,4 @@
-package marble
+package marble_mania
 
 const numOfSpecialMovements = 7
 

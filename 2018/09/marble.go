@@ -1,4 +1,4 @@
-package marble
+package marble_mania
 
 type marble struct {
 	prev *marble

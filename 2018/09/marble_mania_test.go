@@ -1,4 +1,4 @@
-package marble
+package marble_mania
 
 import (
 	"fmt"

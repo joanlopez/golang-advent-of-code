@@ -1,4 +1,7 @@
-### Advent Code Day 09
+### Advent Code Day 09: Marble Mania
+
+#### --- Part One ---
+
 
 You talk to the Elves while you wait for your navigation system to initialize. To pass the time, they introduce you to their favorite marble game.
 
@@ -45,10 +48,20 @@ The goal is to be the player with the highest score after the last marble is use
 
 Here are a few more examples:
 
-<pre>
 10 players; last marble is worth 1618 points: high score is 8317
+
 13 players; last marble is worth 7999 points: high score is 146373
+
 17 players; last marble is worth 1104 points: high score is 2764
+
 21 players; last marble is worth 6111 points: high score is 54718
+
 30 players; last marble is worth 5807 points: high score is 37305
-</pre>
+
+What is the winning Elf's score?
+
+#### --- Part Two ---
+
+Amused by the speed of your answer, the Elves are curious:
+
+What would the new winning Elf's score be if the number of the last marble were 100 times larger?

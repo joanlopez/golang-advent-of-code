@@ -47,10 +47,20 @@ the operands of the given operations can work in two modes: a) positional (like 
 b) immediate (directly the given value). However, the operand that determines where
 the result of an operation (i.e. `ADD`) is stored, works always (evidently) as positional. 
 
-On the second part, you have to add support for more operations (jump if true, jump if false,
+On the part two, you have to add support for more operations (jump if true, jump if false,
 less than, equal). The test is exactly the same but with support for those operations.
 
 ### Day 6: Universal Orbit Map
+
+It's a common graphs problem (BFS + Dijkstra). As *always* you can solve it in many different ways.
+
+On the part one, you have to find how many nodes are reachable between them. For that, I looped over
+them and used a BFS to determine if each pair is reachable. 
+Probably it might be improved but it worked (a bit slow).
+
+On the part two, you have to find the shortest path between a node YOU are orbiting, and a node
+SANta is orbiting, so you can just run the Dijkstra algorithm between this few pairs and take
+the minimum result.  
 
 ### Day 7: Amplification Circuit
 
@@ -58,7 +68,11 @@ Again, another problem that consists on working with the processor developed dur
 
 Now you can implement some amplifiers that contains a running program inside it.
 
-The key of this problem is understand properly how each amplifier work and how they're communicated
-through the input / output operations. It took me a lot of time to really understand how it works.
+The key of this problem is understand properly how each amplifier works and how they're communicated
+through the input / output operations. It took me a lot of time to really understand how it works,
+specially for the part two (where it's more relevant for the feedback loop mode).
 
 Once I took it, then it was quite easy. Be careful with misunderstandings, IMHO it can be tricky.
+If you have a look at the leaderboard [here](https://adventofcode.com/2019/leaderboard/day/7),
+you can see how big is the difference between the one star results from the two stars ones. So,
+it seems even the experts suffered something similar.

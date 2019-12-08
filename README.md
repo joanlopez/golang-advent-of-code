@@ -15,5 +15,5 @@
 - [X] Day 3: Crossed Wires
 - [X] Day 4: Secure Container
 - [X] Day 5: Sunny with a Chance of Asteroids
-- [ ] Day 6: Universal Orbit Map
+- [X] Day 6: Universal Orbit Map
 - [X] Day 7: Amplification Circuit

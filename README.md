@@ -17,3 +17,4 @@
 - [X] Day 5: Sunny with a Chance of Asteroids
 - [X] Day 6: Universal Orbit Map
 - [X] Day 7: Amplification Circuit
+- [X] Day 8: Space Image Format

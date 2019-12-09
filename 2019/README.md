@@ -76,3 +76,18 @@ Once I took it, then it was quite easy. Be careful with misunderstandings, IMHO 
 If you have a look at the leaderboard [here](https://adventofcode.com/2019/leaderboard/day/7),
 you can see how big is the difference between the one star results from the two stars ones. So,
 it seems even the experts suffered something similar.
+
+### Day 8: Space Image Format
+
+It's one of the easiest ones (until now) and it basically consists on some loops and a bit of 
+arrays / matrix manipulation. No tricky at all.
+
+There were only a couple of things (from part two) that were tricky to understand (at first catch).
+
+Firstly, I understood that the black "color" was the most "powerful" one, but not. 
+You have to iterate over the layers from top to bottom until you find a non-transparent pixel. 
+
+Secondly, when I was printing the obtained message from merging the given layers, I realised that 
+white pixels were the ones with content, instead of what's the common sense on a RGB system
+(where white means nothing). After that, I decided to  printed the white pixels ("X") and left the
+others (black and transparent) with no content at all (" ") and I finally found it.  

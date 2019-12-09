@@ -90,4 +90,19 @@ You have to iterate over the layers from top to bottom until you find a non-tran
 Secondly, when I was printing the obtained message from merging the given layers, I realised that 
 white pixels were the ones with content, instead of what's the common sense on a RGB system
 (where white means nothing). After that, I decided to  printed the white pixels ("X") and left the
-others (black and transparent) with no content at all (" ") and I finally found it.  
+others (black and transparent) with no content at all (" ") and I finally found it.
+
+### Day 9: Sensor Boost
+
+Another day with new instructions and modes for your processor (Intcode computer).
+
+Both parts are technically the same, there's just a single difference: the input (the const, 
+not the program) you have to configure. It seems (by the statement) that the execution with
+the input of the part two should be a bit slow depending on the implementation, but it was 
+not my case, despite of the ugly code I did 0:)
+
+The statement samples and the feedback (output) from the executions are very intuitive (it
+tells you what operations are not working properly), what makes it easier.
+
+Finally, I'd suggest to use a map instead an array / slice to store the program instructions
+due to the requirement that asks you to be able to access any (positive) memory position.  

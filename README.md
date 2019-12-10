@@ -1,5 +1,7 @@
 ## Advent of Code
 
+![Advent of Code](/aoc.jpg?raw=true "Advent of Code")
+
 ### 2015 Problems
 
 ### 2016 Problems

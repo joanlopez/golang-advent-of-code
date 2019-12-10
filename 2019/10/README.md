@@ -190,7 +190,7 @@ The next nine to be vaporized are then:
 </pre>
 
 Finally, the laser completes its first full rotation (`1` through `3`), a second rotation (`4` through `8`), 
-and vaporizes the last asteroid (9) partway through its third rotation:
+and vaporizes the last asteroid (`9`) partway through its third rotation:
 
 <pre>
 ......234.....6..

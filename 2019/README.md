@@ -105,4 +105,19 @@ The statement samples and the feedback (output) from the executions are very int
 tells you what operations are not working properly), what makes it easier.
 
 Finally, I'd suggest to use a map instead an array / slice to store the program instructions
-due to the requirement that asks you to be able to access any (positive) memory position.  
+due to the requirement that asks you to be able to access any (positive) memory position.
+
+### Day 10: Monitoring Station  
+
+Honestly, it was quite tricky, at least for me. I was a bit lost (I solved the part one
+luckily) until I discovered I could solve it using the angles between the asteroids
+(as suggested indirectly on the statement).
+
+The idea is to use the reference asteroid as the (0,0) coordinates and use the values
+from the other asteroids as vectors (in order to calculate their angles). Same angle
+mean same sight line, so, taking that into account, the part one is easy.
+
+On the part two, it becomes a bit trickier (specially if you didn't realise about the
+angles approach before). For that part, uou can save the found asteroids for each angle,
+sorted by distance. Additionally, you can sort the angles (from 0 to 360) and just loop
+over them in order to find the one is evaporated the Xth.

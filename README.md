@@ -19,3 +19,4 @@
 - [X] Day 7: Amplification Circuit
 - [X] Day 8: Space Image Format
 - [X] Day 9: Sensor Boost
+- [X] Day 10: Monitoring Station

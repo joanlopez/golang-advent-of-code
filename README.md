@@ -22,3 +22,4 @@
 - [X] Day 8: Space Image Format
 - [X] Day 9: Sensor Boost
 - [X] Day 10: Monitoring Station
+- [X] Day 11: Space Police

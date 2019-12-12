@@ -121,3 +121,22 @@ On the part two, it becomes a bit trickier (specially if you didn't realise abou
 angles approach before). For that part, uou can save the found asteroids for each angle,
 sorted by distance. Additionally, you can sort the angles (from 0 to 360) and just loop
 over them in order to find the one is evaporated the Xth.
+
+### Day 11: Space Police
+
+Another funny statement related with the processor (Intcode computer) built up during
+the previous days, here you have to combine the processor with another component (I/O),
+similarly to the day `7` challenge but with a robot instead of amplificators.
+
+The part one was quite simple (IMHO), despite of my choice of storing each visited panel
+on a map instead of drawing the entire matrix. Here, you just need to keep the robot position (x,y),
+update it with the program and finally count the number of visited unique positions.
+
+The part two was a bit more difficult, specially due to my initial decision of using
+a map to store all the visited panels. Fortunately, despite of the map, I was storing
+data enough to draw the visited panels an get the required password.
+
+Additionally, I spent a funny development time with this challenge because I took the
+change to rewrite entirely my Intcode computer in a better architectured application.
+
+You can look at the solution from days `9` and `11` and compare it, if curious.

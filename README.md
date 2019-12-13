@@ -23,3 +23,4 @@
 - [X] Day 9: Sensor Boost
 - [X] Day 10: Monitoring Station
 - [X] Day 11: Space Police
+- [X] Day 12: The N-Body Problem

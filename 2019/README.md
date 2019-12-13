@@ -140,3 +140,21 @@ Additionally, I spent a funny development time with this challenge because I too
 change to rewrite entirely my Intcode computer in a better architectured application.
 
 You can look at the solution from days `9` and `11` and compare it, if curious.
+
+### Day 12: The N-Body Problem
+
+Honestly, it was the first challenge (so far) that I needed external help to solve it.
+However, the part one was very easy, as the total energy in the system is very simple 
+to calculate and it can be solved with just few loops and some conditionals.
+
+Regarding the part two, I supposed from the very beginning that the path to the solution 
+would be somehow related with calculus of the LCM (least common divisor) of some values 
+(no idea which exactly which ones). 
+
+Unfortunately, I was not able (in a reasonable time) to determine exactly which calculus 
+I had to do to get the result.
+
+Finally, the strategy I followed (with external advisory) consisted on calculating the length
+of the cycle (all moons again on the initial position) for each axis independently and then 
+calculate the LCM of these values. 
+That was all! Another lesson that makes me a better problem solver.

@@ -158,3 +158,21 @@ Finally, the strategy I followed (with external advisory) consisted on calculati
 of the cycle (all moons again on the initial position) for each axis independently and then 
 calculate the LCM of these values. 
 That was all! Another lesson that makes me a better problem solver.
+
+### Day 13: Care Package
+
+Already as a tradition, it was another Intcode computer related challenge. Fortunately,
+both parts can be solved by adapting a bit the solution from the day 11, replacing the robot
+by an arcade cabinet which simulates a game.
+
+The part one is almost equal to the part one from the day 11 but counting by type (blocks)
+instead of counting the total number of tiles, so you can solve it with minor changes.
+
+The part two is a bit trickier to understand (the game part), but also easy to solve. You
+just need to determine the next movement of the joystick based on the paddle and the ball
+locations. Then provide these movements as input to the Intcode computer program. That's all!
+
+Finally, if you are inspired, you can refactor a bit the solution from the part two to let
+the user know the status of the game simulated by the Intcode computer (print the tile map),
+and then get the input joystick movements also from the user (standard input), so you'll have
+a  playable game.

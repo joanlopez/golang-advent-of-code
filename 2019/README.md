@@ -176,3 +176,19 @@ Finally, if you are inspired, you can refactor a bit the solution from the part 
 the user know the status of the game simulated by the Intcode computer (print the tile map),
 and then get the input joystick movements also from the user (standard input), so you'll have
 a  playable game.
+
+### Day 14: Space Stoichiometry
+
+### Day 15: Oxygen System
+
+### Day 16: Flawed Frequency Transmission
+
+It was the classical problem that basically consists on doing basic calculus with some numbers.
+Then those numbers becomes bigger on the part two, so you need to identify how you can improve
+the performance of your first solution (unless you have done well at first).
+
+In this case, the performance improvements can be done by (a) ignoring a slice of the input data
+(as can be deduced from the message offset) and (b) simplifying the calculus done to obtain the output.
+
+As expected (as I'm not very good at this kind of challenges), it took me too much time to discover
+what kind of improvements I had to do to solve it. However, I finally could solve it. 

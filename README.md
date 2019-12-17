@@ -25,3 +25,6 @@
 - [X] Day 11: Space Police
 - [X] Day 12: The N-Body Problem
 - [X] Day 13: Care Package
+- [ ] Day 14: Space Stoichiometry
+- [ ] Day 15: Oxygen System
+- [X] Day 16: Flawed Frequency Transmission

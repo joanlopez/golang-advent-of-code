@@ -28,3 +28,7 @@
 - [ ] Day 14: Space Stoichiometry
 - [ ] Day 15: Oxygen System
 - [X] Day 16: Flawed Frequency Transmission
+
+### 2020 Problems
+ 
+- [X] Day 1: Report Repair

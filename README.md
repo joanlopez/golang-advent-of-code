@@ -4,31 +4,31 @@
 
 <details>
   <summary> 
-    2015 Problems - From https://adventofcode.com/2015
+    2015 Problems :point_right: https://adventofcode.com/2015
   </summary>
 </details>
 
 <details>
   <summary> 
-    2016 Problems - From https://adventofcode.com/2016
+    2016 Problems :point_right: https://adventofcode.com/2016
   </summary>
 </details>
 
 <details>
   <summary> 
-    2017 Problems - From https://adventofcode.com/2017
+    2017 Problems :point_right: https://adventofcode.com/2017
   </summary>
 </details>
 
 <details>
   <summary> 
-    2018 Problems - From https://adventofcode.com/2018
+    2018 Problems :point_right: https://adventofcode.com/2018
   </summary>
 </details>
 
 <details>
   <summary> 
-    2019 Problems - From https://adventofcode.com/2019
+    2019 Problems :point_right: https://adventofcode.com/2019
   </summary>
 
   - [X] Day 1: The Tyranny of the Rocket Equation
@@ -51,7 +51,7 @@
 
 <details>
   <summary> 
-    2020 Problems - From https://adventofcode.com/2020
+    2020 Problems :point_right: https://adventofcode.com/2020
   </summary>
 
   - [X] [Day 1: Report Repair](./2020/day-01/)

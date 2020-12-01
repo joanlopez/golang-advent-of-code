@@ -3,23 +3,33 @@
 [Advent of Code](https://adventofcode.com) challenges solved in Go.
 
 <details>
-  <summary> 2015 Problems </summary>
+  <summary> 
+    2015 Problems - From https://adventofcode.com/2015
+  </summary>
 </details>
 
 <details>
-  <summary> 2016 Problems </summary>
+  <summary> 
+    2016 Problems - From https://adventofcode.com/2016
+  </summary>
 </details>
 
 <details>
-  <summary> 2017 Problems </summary>
+  <summary> 
+    2017 Problems - From https://adventofcode.com/2017
+  </summary>
 </details>
 
 <details>
-  <summary> 2018 Problems </summary>
+  <summary> 
+    2018 Problems - From https://adventofcode.com/2018
+  </summary>
 </details>
 
 <details>
-  <summary> 2019 Problems </summary>
+  <summary> 
+    2019 Problems - From https://adventofcode.com/2019
+  </summary>
 
   - [X] Day 1: The Tyranny of the Rocket Equation
   - [X] Day 2: 1202 Program Alarm
@@ -40,8 +50,10 @@
 </details>
 
 <details>
-  <summary> 2020 Problems </summary>
+  <summary> 
+    2020 Problems - From https://adventofcode.com/2020
+  </summary>
 
-  - [X] Day 1: Report Repair
+  - [X] [Day 1: Report Repair](./2020/day-01/)
 </details>
  

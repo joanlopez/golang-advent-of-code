@@ -1,34 +1,47 @@
 ## Advent of Code
 
-![AoC](aoc.png)
+[Advent of Code](https://adventofcode.com) challenges solved in Go.
 
-### 2015 Problems
+<details>
+  <summary> 2015 Problems </summary>
+</details>
 
-### 2016 Problems
+<details>
+  <summary> 2016 Problems </summary>
+</details>
 
-### 2017 Problems
+<details>
+  <summary> 2017 Problems </summary>
+</details>
 
-### 2018 Problems
+<details>
+  <summary> 2018 Problems </summary>
+</details>
 
-### 2019 Problems
+<details>
+  <summary> 2019 Problems </summary>
+
+  - [X] Day 1: The Tyranny of the Rocket Equation
+  - [X] Day 2: 1202 Program Alarm
+  - [X] Day 3: Crossed Wires
+  - [X] Day 4: Secure Container
+  - [X] Day 5: Sunny with a Chance of Asteroids
+  - [X] Day 6: Universal Orbit Map
+  - [X] Day 7: Amplification Circuit
+  - [X] Day 8: Space Image Format
+  - [X] Day 9: Sensor Boost
+  - [X] Day 10: Monitoring Station
+  - [X] Day 11: Space Police
+  - [X] Day 12: The N-Body Problem
+  - [X] Day 13: Care Package
+  - [ ] Day 14: Space Stoichiometry
+  - [ ] Day 15: Oxygen System
+  - [X] Day 16: Flawed Frequency Transmission
+</details>
+
+<details>
+  <summary> 2020 Problems </summary>
+
+  - [X] Day 1: Report Repair
+</details>
  
-- [X] Day 1: The Tyranny of the Rocket Equation
-- [X] Day 2: 1202 Program Alarm
-- [X] Day 3: Crossed Wires
-- [X] Day 4: Secure Container
-- [X] Day 5: Sunny with a Chance of Asteroids
-- [X] Day 6: Universal Orbit Map
-- [X] Day 7: Amplification Circuit
-- [X] Day 8: Space Image Format
-- [X] Day 9: Sensor Boost
-- [X] Day 10: Monitoring Station
-- [X] Day 11: Space Police
-- [X] Day 12: The N-Body Problem
-- [X] Day 13: Care Package
-- [ ] Day 14: Space Stoichiometry
-- [ ] Day 15: Oxygen System
-- [X] Day 16: Flawed Frequency Transmission
-
-### 2020 Problems
- 
-- [X] Day 1: Report Repair

@@ -55,5 +55,6 @@
   </summary>
 
   - [X] [Day 1: Report Repair](./2020/day-01/)
+  - [X] [Day 2: Password Philosophy](./2020/day-02/)
 </details>
  

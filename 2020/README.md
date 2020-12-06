@@ -24,3 +24,10 @@ There is no other complexity than keeping the amount of valid fields per passwor
 requirements into the equation, that is the reason why my code looks a bit ugly (didn't spend enough time to refactor it).
 Ideally, you might read the input char by char as a micro-optimization. I used a set (`map[string]struct{}`) to keep
 track of the required fields and then use it to check if all of them are present (equal length).
+
+### Day 5: Binary Boarding
+
+The challenge title might shed some light on what's the solution (or one of among all the existing ones, at least):
+binary search. In order to find the id of your seat, there are also multiple valid strategies. The one I followed
+consists on keeping the lowest and highest ids, store all of them in a set and finally loop from the lowest to the
+the highest finding for the missing one.

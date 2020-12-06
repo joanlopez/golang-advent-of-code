@@ -17,3 +17,10 @@ It might be a bit tricky due to the infinite (undetermined) pattern repeats, but
 simple modulus operator (%). For the second part, you can simply do the traverse as many times as slopes you have.
 However, it can ideally be solved with a single traverse. To do that you can pre-calculate at which position the
 tree should be to be reached for each slope. Then you can directly look up for those positions.
+
+### Day 4: Passport Processing
+
+There is no other complexity than keeping the amount of valid fields per password. However, the second part adds multiple
+requirements into the equation, that is the reason why my code looks a bit ugly (didn't spend enough time to refactor it).
+Ideally, you might read the input char by char as a micro-optimization. I used a set (`map[string]struct{}`) to keep
+track of the required fields and then use it to check if all of them are present (equal length).

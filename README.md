@@ -59,4 +59,5 @@
   - [X] [Day 3: Toboggan Trajectory](./2020/day-03/)
   - [X] [Day 4: Passport Processing](./2020/day-04/)
   - [X] [Day 5: Binary Boarding](./2020/day-05/)
+  - [X] [Day 6: Custom Customs](./2020/day-06/)
 </details>

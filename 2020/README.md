@@ -32,9 +32,17 @@ binary search. In order to find the id of your seat, there are also multiple val
 consists on keeping the lowest and highest ids, store all of them in a set and finally loop from the lowest to the
 the highest finding for the missing one.
 
-## Day 6: Custom Customs
+### Day 6: Custom Customs
 
 Easy one that can be solved by looping over the chars on each line and properly using maps to keep track of unique 
 questions answered with "yes". So, to check whether everyone has answered "yes" to a given question or not, you can
 simply check for the equality between the number of lines in the group and the amount of "yes" answers to a given
 question.
+
+### Day 7: Handy Haversacks
+
+It has been the hardest one until now. Although it's not really complex, the fact of having to parse each text lines may
+mislead you. Then, you can use a map and a small structure (or pair, if so) to keep the relationships among all the bag
+kinds. The direction of the relationship depends on what you're looking for (part one vs part two). Finally, note that
+I refactored my first implementation in order to loop over the items without modifying them. At the beginning I started
+by removing visited items, so I got a low (and incorrect) result.

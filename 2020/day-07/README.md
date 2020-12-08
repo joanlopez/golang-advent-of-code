@@ -1,4 +1,4 @@
-### --- Day 7:  ---
+### --- Day 7: Handy Haversacks ---
 
 #### --- Part One ---
 

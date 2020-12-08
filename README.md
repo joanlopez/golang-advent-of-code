@@ -61,4 +61,5 @@
   - [X] [Day 5: Binary Boarding](./2020/day-05/)
   - [X] [Day 6: Custom Customs](./2020/day-06/)
   - [X] [Day 7: Handy Haversacks](./2020/day-07/)
+  - [X] [Day 8: Handheld Halting](./2020/day-08/)
 </details>

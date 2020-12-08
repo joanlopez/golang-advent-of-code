@@ -46,3 +46,10 @@ mislead you. Then, you can use a map and a small structure (or pair, if so) to k
 kinds. The direction of the relationship depends on what you're looking for (part one vs part two). Finally, note that
 I refactored my first implementation in order to loop over the items without modifying them. At the beginning I started
 by removing visited items, so I got a low (and incorrect) result.
+
+### Day 8: Handheld Halting
+
+Memories of 2019 but with a simpler approach. Should we expect harder instruction-like challenges? To keep track of
+visited instructions I used a set of integers with all the IPs. I resolved the second part by brute-forcing it, but it
+finishes in less than a second. So, can we consider it valid, right? Otherwise, it might be optimized by executing only
+a subset of instructions by some criteria.

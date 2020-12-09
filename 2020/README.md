@@ -53,3 +53,12 @@ Memories of 2019 but with a simpler approach. Should we expect harder instructio
 visited instructions I used a set of integers with all the IPs. I resolved the second part by brute-forcing it, but it
 finishes in less than a second. So, can we consider it valid, right? Otherwise, it might be optimized by executing only
 a subset of instructions by some criteria.
+
+### Day 9: Encoding Error
+
+Probably due to my sleepiness (or maybe because everyday I try to read the statement faster), but it took me some attempts
+to realize that the range of preamble numbers was dynamic. Once I got it, it was easy. For some reason (trying to guess the
+part two), I "optimized" the search by building a map with the preamble numbers, but since the amount of preamble numbers
+is small, it's not really needed, and it might be solved with a nested loop. For the part two I used the strategy of having
+two slice indexes to look for the contiguous range that sum up to the target number. Then I looped once again through the
+elements of the contiguous range to find the smallest and the largest one.

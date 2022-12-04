@@ -71,4 +71,5 @@
   </summary>
 
 - [X] [Day 1: Calorie Counting](./2022/day-01/)
+- [X] [Day 2: Rock Paper Scissors](./2022/day-02/)
 </details>

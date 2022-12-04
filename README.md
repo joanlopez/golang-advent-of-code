@@ -64,3 +64,11 @@
   - [X] [Day 8: Handheld Halting](./2020/day-08/)
   - [X] [Day 9: Encoding Error](./2020/day-09/)
 </details>
+
+<details>
+  <summary> 
+    2022 Problems :point_right: https://adventofcode.com/2022
+  </summary>
+
+- [X] [Day 1: Calorie Counting](./2022/day-01/)
+</details>

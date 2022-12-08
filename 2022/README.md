@@ -16,3 +16,9 @@ calculations sugary. Then, for the second part you just need to adjust the conve
 To extract common items in different compartments (part one) or rucksacks (part two) you can just sort the elements on
 each and loop over them looking for matching items (or types). So, treating the input as arrays of chars (runes). Then,
 to calculate the priority of each item, you can play with the ASCII value of each char.
+
+### Day 4: Camp Cleanup
+
+The key aspect to solve this exercise is that ranges of ids are continuous, which makes calculations of overlaps way
+simpler than it could be. Therefore, you can just identify them with by conditionally checking for smaller/larger than
+and slightly modifying the condition for the part two.

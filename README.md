@@ -72,4 +72,5 @@
 
 - [X] [Day 1: Calorie Counting](./2022/day-01/)
 - [X] [Day 2: Rock Paper Scissors](./2022/day-02/)
+- [X] [Day 3: Rucksack Reorganization](./2022/day-03/)
 </details>

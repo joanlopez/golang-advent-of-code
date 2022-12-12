@@ -22,3 +22,9 @@ to calculate the priority of each item, you can play with the ASCII value of eac
 The key aspect to solve this exercise is that ranges of ids are continuous, which makes calculations of overlaps way
 simpler than it could be. Therefore, you can just identify them with by conditionally checking for smaller/larger than
 and slightly modifying the condition for the part two.
+
+### Day 5: Supply Stacks
+
+You can cheat a bit by parsing the first half of the input (initial state) manually -I did it-. Then, you can use a stack
+data structure to simulate the behavior of these crates (they're actually stacks). Finally, to solve the part two, you
+can simply use a temporary slice to keep the order when un/stacking between different crates.

@@ -74,4 +74,5 @@
 - [X] [Day 2: Rock Paper Scissors](./2022/day-02/)
 - [X] [Day 3: Rucksack Reorganization](./2022/day-03/)
 - [X] [Day 4: Camp Cleanup](./2022/day-04/)
+- [X] [Day 5: Supply Stacks](./2022/day-05/)
 </details>

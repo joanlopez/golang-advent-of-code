@@ -76,3 +76,11 @@
 - [X] [Day 4: Camp Cleanup](./2022/day-04/)
 - [X] [Day 5: Supply Stacks](./2022/day-05/)
 </details>
+
+<details>
+  <summary> 
+    2024 Problems :point_right: https://adventofcode.com/2024
+  </summary>
+
+- [X] [Day 1: Historian Hysteria](./2024/day-01/)
+</details>

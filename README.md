@@ -83,4 +83,5 @@
   </summary>
 
 - [X] [Day 1: Historian Hysteria](./2024/day-01/)
+- [X] [Day 2: Red-Nosed Reports](./2024/day-02/)
 </details>
